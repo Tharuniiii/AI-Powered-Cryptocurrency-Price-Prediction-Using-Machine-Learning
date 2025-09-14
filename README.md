@@ -91,6 +91,10 @@ Bar charts display the R-squared values of each model for a clear comparison.
 
 Random Forest Regressor often provides the best balance between accuracy and generalization.
 
+# Output of project
+<img width="1407" height="796" alt="Screenshot 2025-09-14 161250" src="https://github.com/user-attachments/assets/f25a8ad4-7486-4f8d-899e-478808629f16" />
+
+
 # Future Work
 
 Include additional features such as trading volume, market sentiment, or macroeconomic indicators.

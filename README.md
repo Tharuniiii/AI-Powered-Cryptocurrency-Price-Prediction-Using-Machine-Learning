@@ -1,4 +1,4 @@
-## AI-Powered Cryptocurrency Price Prediction Using Machine Learning
+### AI-Powered Cryptocurrency Price Prediction Using Machine Learning
 
 # Project Overview
 This project focuses on predicting the prices of popular cryptocurrencies—Bitcoin (BTC), Ethereum (ETH), Tether (USDT), and Binance Coin (BNB)—using historical market data from **2020 to 2025**. By leveraging various machine learning regression models, the project analyzes price trends and evaluates model performance for accurate predictions.
